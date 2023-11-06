@@ -6,6 +6,5 @@ Ravi is 12 year boy studying in 6th standard .Ravi and his family are planning t
 Ravi wants to plot a graph of weather forecast of these countries. He downloaded the dataset of weather of this country for 8 days. Using RStudio he plotted the graphs and generated the summaries. 
 
 ## Authors
+- [@sindhoori-kaza](https://github.com/VsinK14)
 
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
-- [@rithikabadam](https://github.com/rithikabadam)
